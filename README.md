@@ -27,19 +27,19 @@ Analyze customer preferences for specific genres, especially Rock music.
 The project involves a series of SQL queries grouped into three levels of complexity:
 
 #### **Easy Queries**
-Identify the senior-most employee based on job title.
-Find the countries with the most invoices.
-List the top 3 highest invoice totals.
-Determine the city generating the highest invoice total (for a promotional event).
-Identify the best customer based on spending.
+1. Identify the senior-most employee based on job title.
+2. Find the countries with the most invoices.
+3. List the top 3 highest invoice totals.
+4. Determine the city generating the highest invoice total (for a promotional event).
+5. Identify the best customer based on spending.
 #### **Moderate Queries**
-Retrieve details of Rock music listeners.
-List the top 10 rock bands based on the number of tracks.
-Identify tracks with a duration longer than the average song length.
+1. Retrieve details of Rock music listeners.
+2. List the top 10 rock bands based on the number of tracks.
+3. Identify tracks with a duration longer than the average song length.
 #### **Advanced Queries**
-Analyze customer spending on artists.
-Identify the most popular music genre in each country.
-Determine the top-spending customer in each country.
+1. Analyze customer spending on artists.
+2. Identify the most popular music genre in each country.
+3. Determine the top-spending customer in each country.
 
 ### **Insights & Results**
 Key findings from the analysis include:
